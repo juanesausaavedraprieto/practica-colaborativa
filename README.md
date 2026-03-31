@@ -1,5 +1,5 @@
 # practica-colaborativa
 TAREA11
-# Nombre del grupo: LOS VACUNOS
+# Nombre del grupo: LOS VACUNOS muuuuu
 ## Curso: Herramientas de Desarrollo
-## Descripcion: Comenzamos realizando las actividades de la clase continuamente.
+## Descripcion: Presentacion de tarea de semana 2
