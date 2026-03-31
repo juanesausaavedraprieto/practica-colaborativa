@@ -2,4 +2,4 @@
 TAREA11
 # Nombre del grupo: LOS VACUNOS
 ## Curso: Herramientas de Desarrollo
-## Descripcion: Vamos hacer un avance
+## Descripcion: Comenzamos realizando las actividades de la clase. 
