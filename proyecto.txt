@@ -1,0 +1,1 @@
+Un sistema de soporte de decisiones (DSS) es una herramienta informática que analiza grandes volúmenes de datos para ayudar a líderes y empleados a tomar decisiones fundamentadas, más allá de la intuición. Estos sistemas, esenciales para la planificación estratégica y operativa, permiten evaluar alternativas y prever escenarios para mejorar la eficiencia organizacional
